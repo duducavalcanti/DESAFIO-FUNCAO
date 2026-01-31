@@ -33,7 +33,7 @@ Ao final deve se exibir uma mensagem:
 1. Clone ou baixe este repositório em sua máquina:
 
    ```bash
-   git clone https://github.com/duducavalcanti/DESAFIO-LOGICA.git
+   git clone https://github.com/duducavalcanti/DESAFIO-FUNCAO.git
    ```
 
 2. Acesse a pasta do projeto:
